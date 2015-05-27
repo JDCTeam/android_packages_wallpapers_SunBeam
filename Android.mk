@@ -23,6 +23,7 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files) $(call all-renderscript-files-u
 
 LOCAL_PACKAGE_NAME := SunBeam
 LOCAL_CERTIFICATE := shared
+LOCAL_RENDERSCRIPT_TARGET_API := 17
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.cfg
 
