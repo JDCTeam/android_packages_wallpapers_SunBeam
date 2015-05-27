@@ -18,6 +18,6 @@
 -->
 
 <wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
-    android:settingsActivity="com.android.phasebeam.PhaseBeamSelector"
+    android:settingsActivity="com.android.phasebeamorange.PhaseBeamSelector"
     android:author="@string/wallpaper_author"
     android:thumbnail="@drawable/wallpaper_thumb" />
